@@ -271,6 +271,9 @@ TARGET_LD_SHIM_LIBS := \
 # Snapdragon LLVM
 TARGET_USE_SDCLANG := true
 
+# Sound Picker
+TARGET_USE_OLD_SOUND_PICKER := true
+
 # Time services
 BOARD_USES_QC_TIME_SERVICES := true
 
